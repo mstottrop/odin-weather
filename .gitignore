@@ -8,3 +8,5 @@ dist
 .eslintcache
 
 .DS_Store
+
+package-lock.json
