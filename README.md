@@ -12,7 +12,7 @@
 
 ~~2. Write the functions that process the JSON data you’re getting from the API and return an object with only the data you require for your app.~~
 
-3. Set up a form that will let users input their location and will fetch the weather info.
+~~3. Set up a form that will let users input their location and will fetch the weather info.~~
 
 4. Display the information on your webpage and
 
