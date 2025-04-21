@@ -16,4 +16,4 @@
 
 ~~4. Display the information on your webpage and~~
 
-5. add stylings.
+5. add stylings and a loading spinner.

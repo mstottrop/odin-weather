@@ -49,9 +49,9 @@ async function getWeather(city) {
 function displayImage(theCondition) {
   backgroundImageDiv.innerHTML = "";
   const infoText =
-    "The temperature is: " +
+    "The temperature is " +
     weatherObject.temperature +
-    " C and the conditions are: " +
+    "°C and \n the conditions are " +
     weatherObject.conditions;
 
   if (theCondition != null) {
