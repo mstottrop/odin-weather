@@ -14,6 +14,6 @@
 
 ~~3. Set up a form that will let users input their location and will fetch the weather info.~~
 
-4. Display the information on your webpage and
+~~4. Display the information on your webpage and~~
 
 5. add stylings.
